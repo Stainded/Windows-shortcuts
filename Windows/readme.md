@@ -4,8 +4,8 @@ At the stage of this operating system, several folders with different shortcuts 
 
 Please note that modifications will only be available if the game or tool is open for such functionality; illegal modifications will not be tolerated. Note that the modifications will only be available if the game or tool is open for such functionality, illegal modifications will not be tolerated by this repository, and if you wish to make illegal modifications, know that you do so at **your own risk**.
 
-* Editing and recording tools;
-* Tecnologias e Plataformas;
-* Game and mod installers;
+* Useful work;
+* Utility technologies;
+* Gaming utilities;
 
 
